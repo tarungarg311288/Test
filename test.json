@@ -7,9 +7,22 @@
 			"coordinates": [-122.166149, 42.865508]
 		},
 		"properties": {
-			"description": "Flush toilet, Shower",
-			"title": "Mazama",
-			"marker-size": "small"
+         "Betreiber": " AVG Baustoffe GmbH  ",
+         "Stadt": "Duisburg",
+         "PLZ": 47228,
+         "Stra�e": "Mausegatt 40",
+         "Website": "avg-handel.com ",
+         "Preise": "Preise telefonisch erfragt (August 2017)",
+         "Telefon": "02065 77470 ",
+         "Art": "Zwischenlager",
+         "googlelink": "https://www.google.de/maps/@51.4220411,6.6866853,212m/data=!3m1!1e3",
+         "sonstiges": "",
+         "LAGA_Z0": "15,00 �",
+         "LAGA_Z1.1": "",
+         "LAGA_Z1.2": "",
+         "LAGA_Z2": "",
+         "DK0": "",
+         "Schnitt": "15,00 �"
 		}
 	}, {
 		"type": "Feature",
@@ -18,9 +31,22 @@
 			"coordinates": [-122.342876, 43.063217]
 		},
 		"properties": {
-			"description": "Vault toilet",
-			"title": "Claude Lewis Sno-Park-USFS",
-			"marker-size": "small"
+         "Betreiber": " Baustoff-Recycling GmbH Loddenheide  ",
+         "Stadt": "M�nster",
+         "PLZ": 48155,
+         "Stra�e": "Loddenheide 32",
+         "Website": "",
+         "Preise": "",
+         "Telefon": "",
+         "Art": "Zwischenlager",
+         "googlelink": "https://www.google.de/maps/@51.9356006,7.6398402,350m/data=!3m1!1e3",
+         "sonstiges": "",
+         "LAGA_Z0": "",
+         "LAGA_Z1.1": "",
+         "LAGA_Z1.2": "",
+         "LAGA_Z2": "",
+         "DK0": "",
+         "Schnitt": ""
 		}
 	}, {
 		"type": "Feature",
@@ -29,9 +55,22 @@
 			"coordinates": [-122.037881, 42.879145]
 		},
 		"properties": {
-			"description": "Flush toilet",
-			"title": "Lost Creek",
-			"marker-size": "small"
+         "Betreiber": " Baustoffe und Recycling H.P. Kaiser GmbH ",
+         "Stadt": "Grevenbroich",
+         "PLZ": 41515,
+         "Stra�e": "Alfred-Nobel-Stra�e 19",
+         "Website": "hpkaiser.de ",
+         "Preise": "keine Angabe �ber Deponieklasse/Preise telefonisch erfragt (August 2017)",
+         "Telefon": "02181 22510 ",
+         "Art": "Zwischenlager",
+         "googlelink": "https://www.google.de/maps/@51.0838947,6.6204314,191m/data=!3m1!1e3",
+         "sonstiges": "",
+         "LAGA_Z0": "15,00 �",
+         "LAGA_Z1.1": "",
+         "LAGA_Z1.2": "",
+         "LAGA_Z2": "",
+         "DK0": "",
+         "Schnitt": "15,00 �"
 		}
 	}, {
 		"type": "Feature",
@@ -40,9 +79,22 @@
 			"coordinates": [-122.330322, 43.056641]
 		},
 		"properties": {
-			"description": "Vault toilet",
-			"title": "Hamaker",
-			"marker-size": "small"
+         "Betreiber": " BAV Aufbereitung Herne GmbH  ",
+         "Stadt": "Herne",
+         "PLZ": 44653,
+         "Stra�e": "Hertener Stra�e 34",
+         "Website": "bav-aufbereitung.de ",
+         "Preise": "spezialisiert auf belastete B�den / Preise telefonisch erfragt (September 2017)",
+         "Telefon": "02323 9640717 ",
+         "Art": "Zwischenlager",
+         "googlelink": "https://www.google.de/maps/@51.5524695,7.1826261,433m/data=!3m1!1e3",
+         "sonstiges": "",
+         "LAGA_Z0": "",
+         "LAGA_Z1.1": "",
+         "LAGA_Z1.2": "",
+         "LAGA_Z2": "25,00 �",
+         "DK0": "",
+         "Schnitt": "25,00 �"
 		}
 	}]
 }
